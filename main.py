@@ -8,7 +8,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 from sklearn.metrics import accuracy_score, precision_score
-import plotly.graph_objects as go
 
 st.set_page_config(layout="wide")
 
